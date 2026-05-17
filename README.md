@@ -1,7 +1,9 @@
 
 
 Nama : Maria Indriani Lelu 
+
 NIM : 2501010335
+
 Kelas : D
 
 # Jawaban Quis 1 Struktur Data: Array dan Linked List

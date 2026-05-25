@@ -1,7 +1,7 @@
 
 
-Nama : 1.Maria Indriani Lelu_2501010335
-      
+Nama : 
+       1.Maria indriani lelu_2501010335
        2.Ni putu indahning sasmita_2501010104
       
 Kelas/Prodi : D/Teknik informatika

@@ -1,6 +1,7 @@
 Nama:maria indriani lelu_2501010335
 
      Ni putu indahning sasmita_25010104
+
 Kelas/Prodi : D/Teknik informatika
 
 # Jawaban Quis 1 Struktur Data: Array dan Linked List

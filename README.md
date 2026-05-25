@@ -1,9 +1,8 @@
 
 
-Nama : Maria Indriani Lelu 
-
-NIM : 2501010335
-
+Nama : 1.Maria Indriani Lelu_2501010335
+       2.Ni putu indahning sasmita_2501010104
+      
 Kelas/Prodi : D/Teknik informatika
 
 # Jawaban Quis 1 Struktur Data: Array dan Linked List
